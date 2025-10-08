@@ -26,7 +26,7 @@
 ## 📦 Instalasi
 ```bash
 # Clone repository
-$ git clone https://github.com/username/usb-writer.git
+$ git clone https://github.com/RasyidGZ/USB-Writer.git
 $ cd usb-writer
 
 # Jalankan langsung
